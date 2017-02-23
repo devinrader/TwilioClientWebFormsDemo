@@ -1,5 +1,5 @@
 # TwilioClientWebFormsDemo
-Example demonstrating how to use Twilio Client in a WinForms app. Uses the latest Twilio helper library available on Nuget.
+Example demonstrating how to use Twilio Client in a WebForms app. Uses the latest Twilio helper library available on Nuget.
 
 The sample contains four interesting files:
 
